@@ -1,6 +1,6 @@
 # Data Jobs Dashboard with PowerBi
 
-![Dashboard Page 1](<img width="479" height="269" alt="Project 1 Page 1" src="https://github.com/user-attachments/assets/c4743de7-a4e7-4ffa-88b5-ff78cb669acd" />)
+<img width="479" height="269" alt="Project 1 Page 1" src="https://github.com/user-attachments/assets/6a74409d-d39f-4ba8-9624-7048d08993a1" />
 
 
 ## Introducion
@@ -30,13 +30,13 @@ Designed an intuitive and visually appealing layout, exploring both common and u
 
 ### Page 1: High-Level Market View
 
-![Dashboard Page 1](/Images/Project%201%20Page%201.png)
+<img width="479" height="269" alt="Project 1 Page 1" src="https://github.com/user-attachments/assets/a7ba67f6-5208-4532-8997-e3be796bbdcd" />
 
 This is the mission control for the job market. It showcases key KPIs like total job count, median salaries and job titles to give you a quick understanding of what's happening in the job market.
 
 ### Page 2: Job Title Drill Through
 
-![Dashboard Page 1](/Images/Project%201%20Page%202.png)
+<img width="478" height="267" alt="Project 1 Page 2" src="https://github.com/user-attachments/assets/e77284e7-2c97-4dd5-9378-107512ab468f" />
 
 This is the deep dive page. You can drill through to this page from the main dashboard view to get specifc details for a single job title, which include salary ranges, hiring platforms, and a global map of job locations.
 
