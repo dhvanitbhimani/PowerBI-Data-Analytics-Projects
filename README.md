@@ -1,6 +1,7 @@
 # Data Jobs Dashboard with PowerBi
 
-![Dashboard Page 1](/Images/Project%201%20Page%201.png)
+![Dashboard Page 1](<img width="479" height="269" alt="Project 1 Page 1" src="https://github.com/user-attachments/assets/c4743de7-a4e7-4ffa-88b5-ff78cb669acd" />)
+
 
 ## Introducion
 
